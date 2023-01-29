@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:4.0
 N:Mohamed Ahmed Mohamed Testing V-CARD;;;
-ORG:MFC;
+ORG:MFC-CARD;
 ADR:Nasr City , Cairo ;;;
-TEL;TYPE=work,voice;VALUE=uri:tel:+0201112890867
+TEL;TYPE=work,voice;phone=uri:01112890867
 EMAIL:magdy.zahran.web@gmail.com
 URL: http://www.mfc-testing.co
 END:VCARD
